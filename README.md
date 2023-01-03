@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm 小白云 (littlewhitecloud) 
-#### I am a uploader in bilibili and also a coder...
+#### I am an uploader in bilibili and also a coder...
 
 - 🧾 I love Python & C++, and I like making some useful things with tkinter.
 - 😉 Maybe you can check out my project such as "Editor" and "CustomTkinterTitlebar"
