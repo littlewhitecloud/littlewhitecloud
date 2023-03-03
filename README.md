@@ -4,7 +4,7 @@
 - 🧾 我爱Python和C++并且我还喜欢用tkinter做些有用的东西 I love Python & C++, and I like making some useful things with tkinter
 - 😉 也许你也可以去看看我的项目比如 “Editor” 和 “CustomTkinterTitlebar” Maybe you can check out my project such as "Editor" and "CustomTkinterTitlebar"
 - 🎞 我也对做视频感兴趣，你可以在B站上看我做的视频 (https://space.bilibili.com/1481808542) I am also interseted in making videos you can see my videos in bilibili. (https://space.bilibili.com/1481808542)
-- ✨ 感谢你产看我的个人资料~ Thank you for checking out my profile & projects~
+- ✨ 感谢你看我的个人资料~ Thank you for checking out my profile & projects~
 
 <br>
   <p align="center">
