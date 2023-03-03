@@ -12,5 +12,6 @@
   </p>
 <p>
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=littlewhitecloud&show_icons=true&count_private=true&custom_title=My%20GitHub%20stats&bg_color=30,e96443,904e95&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=fafafa&" alt = "littlewhitecloud"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=littlewhitecloud&show_icons=true&count_private=true&custom_title=Most%20Use%20Language&bg_color=30,e96443,904e95&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=fafafa&border_radius=14&line_height=30" alt = "littlewhitecloud"/>
+    </p>
 </p>
