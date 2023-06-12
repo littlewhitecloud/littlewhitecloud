@@ -1,5 +1,4 @@
-# 永远不要为不值得的人，不值得的事，费时间，费心力
-### 你好，我是小白云 Hello, I'm littlewhitecloud
+# 你好，我是小白云 Hello, I'm littlewhitecloud
 #### 我是一个B站的UP主同时也喜欢编程 I am an uploader in bilibili and also a coder...
 
 - 🧾 我爱Python和C++ I love Python & C++
@@ -16,6 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=littlewhitecloud&show_icons=true&count_private=true&custom_title=Most%20Use%20Language&bg_color=30,7043C9,AD39B7&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=290079&border_radius=14&line_height=30" alt = "littlewhitecloud"/>
     </p>
 </p>
+<details>
 
 ## 我的项目 My Projects
 ### CustomTkinterTitlebar
@@ -30,3 +30,7 @@ https://github.com/littlewhitecloud/TkTerminal
 ### TkinterMessagebox
 https://github.com/littlewhitecloud/TkinterMessagebox
 ![image](https://github.com/littlewhitecloud/littlewhitecloud/assets/71159641/825bf1f6-26a4-4412-b76a-d2241b4a8eda)
+
+</details>
+
+#### 永远不要为不值得的人，不值得的事，费时间，费心力
