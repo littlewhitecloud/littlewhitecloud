@@ -9,15 +9,15 @@
 <br>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=littlewhitecloud&show_icons=true&count_private=true&custom_title=My%20GitHub%20stats&bg_color=30,7200BF,AD39B7&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=290079&border_radius=14&include_all_commits=true&line_height=30">
-  </p>
-<p>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=littlewhitecloud&show_icons=true&count_private=true&custom_title=Most%20Use%20Language&bg_color=30,7043C9,AD39B7&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=290079&border_radius=14&line_height=30" alt = "littlewhitecloud"/>
+    
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=littlewhitecloud&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Littlewhitecloud's github streak stats">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=littlewhitecloud&show_icons=true&count_private=true&custom_title=Most%20Use%20Language&bg_color=30,7043C9,AD39B7&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=290079&border_radius=14&line_height=30" alt="littlewhitecloud"/>
     </p>
 </p>
-<details>
 
 ## 我的项目 My Projects
+<details>
 ### CustomTkinterTitlebar
 https://github.com/littlewhitecloud/CustomTkinterTitlebar
 ![image](https://github.com/littlewhitecloud/littlewhitecloud/assets/71159641/f42516d3-ec7e-4138-87be-1315c4cbbf8b)
