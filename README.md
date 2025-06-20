@@ -1,10 +1,11 @@
 <div align="center"> <h1>Hello, this is littlewhitecloud! </h1></div>
 
-<h4> I am crazy about win32 application and like mica effect very much. </h4>
+<h4> I like customizing some tkinter applications and so I create CustomTkinterTitlebar. </h4>
 
-![image](https://github.com/littlewhitecloud/littlewhitecloud/assets/71159641/bfbbc069-caa3-47d6-ab61-03ca880e17a3)
+![image](https://github.com/user-attachments/assets/6353e47c-6653-44f9-8418-b8e80580f0d6)
 
-<h4> I also like making some tkinter applications and I made CustomTkinterTitlebar. </h4>
+<h4> Akuli's jou programming is also one of my favourite project. </h4>
+<h4> I create my most meaningful pull request in this repo. </h4>
 
 <br>
   <p align="center">
